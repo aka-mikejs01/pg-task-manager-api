@@ -37,7 +37,7 @@ A secure and well-structured REST API for task management, built with Express.js
 ## 📁 Folder Structure
 
 project-root/
-├── config
+├── config/
 ├── controllers/
 ├── middlewares/
 ├── routes/
@@ -46,10 +46,6 @@ project-root/
 ├── .env
 ├── app.js
 └── package.json
-
-yaml
-Copy
-Edit
 
 ---
 
