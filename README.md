@@ -66,9 +66,6 @@ https://github.com/aka-mikejs01/pg-task-manager-api
 cd task-manager-api
 Install dependencies
 
-bash
-Copy
-Edit
 npm install
 Create a .env file
 
@@ -128,7 +125,3 @@ Made with love by Michael G
 
 📜 License
 This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
