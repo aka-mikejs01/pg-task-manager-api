@@ -62,7 +62,7 @@ project-root/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/task-manager-api.git
+https://github.com/aka-mikejs01/pg-task-manager-api
 cd task-manager-api
 Install dependencies
 
