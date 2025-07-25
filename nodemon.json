@@ -1,0 +1,9 @@
+{
+  "watch": ["app.js", "logger.js", "routes", "controllers", "middleware", "config", "utils", "validators"],
+  "ext": "js,json",
+  "ignore": ["node_modules"],
+  "exec": "node app.js",
+  "delay": "100",
+  "legacyWatch": true,
+  "verbose": true
+}
