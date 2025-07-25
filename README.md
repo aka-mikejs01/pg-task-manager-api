@@ -1,7 +1,5 @@
 📘 README.md
-markdown
-Copy
-Edit
+
 # 📝 Task Manager API
 
 A secure and well-structured REST API for task management, built with Express.js and PostgreSQL. It supports full authentication using access and refresh tokens, and provides protected routes for managing personal tasks.
